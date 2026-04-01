@@ -1,0 +1,8 @@
+conda activate detect
+cd /d E:\cursor_workspace\Road-Defect-Detection-CBAM-DataAugmentation-main\backend
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+
+
+
+cd /d E:\cursor_workspace\Road-Defect-Detection-CBAM-DataAugmentation-main\frontend
+npm run dev

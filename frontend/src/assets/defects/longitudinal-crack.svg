@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#dfe5ef"/>
+  <rect x="0" y="120" width="960" height="320" fill="#b8c4d6"/>
+  <rect x="460" y="120" width="16" height="320" fill="#5a6475"/>
+  <path d="M468 125 L472 160 L464 200 L474 245 L462 290 L476 335 L466 380 L472 430" stroke="#242a35" stroke-width="6" fill="none"/>
+  <text x="40" y="55" fill="#1f2d3d" font-size="34" font-family="Arial, sans-serif">x‹:µÂLongitudinal Crack	</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#dde4ef"/>
+  <rect x="0" y="120" width="960" height="320" fill="#b5c2d4"/>
+  <path d="M40 260 L130 250 L210 268 L300 252 L390 270 L480 248 L565 266 L650 250 L740 270 L840 252 L930 262"
+        stroke="#2c3442" stroke-width="7" fill="none"/>
+  <path d="M120 292 L200 305 L290 288 L380 305 L470 287 L560 302 L650 288 L740 304 L830 290"
+        stroke="#3a4453" stroke-width="4" fill="none" opacity="0.65"/>
+  <text x="40" y="55" fill="#1f2d3d" font-size="34" font-family="Arial, sans-serif">x‹:*ÂTransverse Crack	</text>
+</svg>
