@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#dfe7f3"/>
+  <rect x="0" y="120" width="960" height="320" fill="#b6c5d9"/>
+  <g stroke="#2e3746" stroke-width="4" fill="none">
+    <path d="M120 180 L210 150 L285 185 L255 255 L160 265 Z"/>
+    <path d="M285 185 L360 150 L435 190 L400 260 L255 255 Z"/>
+    <path d="M435 190 L530 165 L600 215 L560 285 L400 260 Z"/>
+    <path d="M160 265 L255 255 L235 335 L140 350 L95 295 Z"/>
+    <path d="M255 255 L400 260 L370 345 L235 335 Z"/>
+    <path d="M400 260 L560 285 L510 360 L370 345 Z"/>
+    <path d="M560 285 L660 260 L730 310 L680 385 L510 360 Z"/>
+  </g>
+  <text x="40" y="55" fill="#1f2d3d" font-size="34" font-family="Arial, sans-serif">x‹:Q¶ÂAlligator Crack	</text>
+</svg>
